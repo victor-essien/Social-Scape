@@ -1,3 +1,32 @@
+# SocialScape
+
+Welcome to **SocialScape**, a messaging application where you can connect with friends, send friend requests, view friends' posts, and send messages to your friends.
+
+## Features
+
+- **Friend Requests**: Send and accept friend requests.
+- **Edit Profile**: Edit your profile
+- **View Friends' Posts**: See what your friends are sharing.
+- **Post Viewing**: View all posts shared by your friends and yourself.
+- **Messaging**: Send and receive messages from your friends.
+
+## Live Demo
+
+Check out the live application [here](https://social-scape.netlify.app).
+
+## Technologies Used
+
+- **Frontend**: React, Tailwind CSS
+- **Backend**: NodeJs, Express
+- **Database**: MongoDB
+- **Authentication**: JWT Auth
+- **Messaging**: Socket.IO
+- **Image Hosting**: Cloudinary
+- **Hosting**: Netlify (Frontend), Render (Backend)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
